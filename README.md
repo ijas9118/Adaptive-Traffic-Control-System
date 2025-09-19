@@ -14,7 +14,6 @@ The system also integrates a **parking safety module** that determines whether v
 - Generate **heatmaps** to visualize lane-wise traffic density over time.  
 - Implement a **parking safety module** to detect improperly parked vehicles.  
 - Compare performance using tracking algorithms such as **SORT** and **ByteTrack**.  
-- Contribute to the development of **intelligent transportation systems (ITS)**.  
 
 ---
 
@@ -26,7 +25,6 @@ The project pipeline integrates multiple modules:
 - **Velocity Estimation** – Calculates vehicle speed from tracked motion.  
 - **Heatmap Generation** – Visualizes traffic flow and congestion patterns.  
 - **Parking Safety Assessment** – Detects correct/incorrect parking using YOLOv8 segmentation and OpenCV-based boundary detection.  
-- **Frontend-Backend Integration** – Built with **React.js** and **Flask API**, offering an intuitive user interface.  
 
 **Dataset Used**:  
 - **UA-DETRAC Dataset** (vehicles: car, truck, bus, ambulance).  
