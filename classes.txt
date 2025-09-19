@@ -1,4 +1,0 @@
-car
-bus
-truck
-ambulance
